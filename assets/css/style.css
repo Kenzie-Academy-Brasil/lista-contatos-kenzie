@@ -1,0 +1,99 @@
+body{
+    font-family: 'Quicksand', sans-serif;
+}
+
+header{
+    background-color: #162b7b;
+    padding: 20px 0;
+}
+header .container{
+    width: 100%;
+    max-width: 1000px;
+    margin: 0 auto;
+}
+header figure{}
+header figure img{
+    width: 100%;
+    max-width: 120px;
+}
+header h1{
+    color: white;
+    font-size: 35px;
+    margin-top: 10px;
+    font-weight: 600;
+}
+
+main{
+    display: flex;
+    height: 87vh;
+}
+main section {
+    width: 50%;
+    padding: 100px 40px;
+}
+
+.secaoFormulario{
+    background-color: #162b7b;
+}
+.secaoFormulario__formulario{
+    display: flex;
+    flex-direction: column;
+    width: 450px;
+    margin: 0 0 0 auto;
+}
+.secaoFormulario__formulario input{
+    margin-bottom: 15px;
+    height: 40px;
+    border: none;
+    border-radius: 2px;
+    padding: 0 10px;
+    font-family: 'Quicksand', sans-serif;
+    font-weight: 600;
+}
+.secaoFormulario__formulario button{
+    margin-top: 20px;
+    height: 40px;
+    background-color: hsl(0deg 0% 100% / 90%);
+    border: none;
+    border-radius: 2px;
+    text-transform: uppercase;
+    cursor: pointer;
+    font-family: 'Quicksand', sans-serif;
+    font-weight: 600;
+}
+
+.secaoListaContatos{
+    background-color: hsl(228deg 70% 28% / 10%);
+}
+
+.secaoListaContatos__lista{
+    width: 100%;
+    max-width: 450px;
+}
+.secaoListaContatos__lista li{
+    background-color: white;
+    padding: 20px 30px;
+    border-radius: 10px;
+    margin-bottom: 30px;
+}
+.secaoListaContatos__lista li button{
+    float: right;
+    background-image: url(../img/trash.svg);
+    width: 30px;
+    height: 30px;
+    background-size: 20px;
+    background-position: center;
+    background-repeat: no-repeat;
+    border: 2px solid #de4b09;
+    border-radius: 100%;
+    background-color: hsl(0deg 95% 44% / 5%);
+    cursor: pointer;
+}
+.secaoListaContatos__lista li h2{
+    font-size: 18px;
+    font-weight: 600;
+}
+.secaoListaContatos__lista li p{
+    margin: 5px 0;
+}
+.secaoListaContatos__lista li span{}

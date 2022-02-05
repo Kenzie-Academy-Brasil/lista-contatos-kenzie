@@ -1,0 +1,92 @@
+/* CSS => Cascading StyleSheet(Folha de estilo em cascata) */
+
+/* Anatomia de uma regra CSS
+
+seletor {
+    propriedade: valor da propriedade; => declaração CSS
+    cor de fundo: vermelho; => declaração CSS
+} => regra CSS
+
+*/
+
+/*
+tipos de seletores
+
+1. Seletor por nome de tag/nome de elemento
+*/
+
+header {
+    background-color: blueviolet;
+}
+
+h1 {
+    color: white;
+}
+
+/* Seletor por classe */
+
+section {
+    background-color: cadetblue;
+}
+
+.secaoSobreMim {
+    background-color: darkblue;
+    color: white;
+}
+
+/* Seletor por ID */
+
+#secaoListaComidas {
+    background-color: tomato;
+}
+
+/* font: font-size => tamanho da fonte */
+/* font: font-family => familia da fonte */
+
+h1 {
+    font-size: 30px;
+    font-family: Arial;
+}
+
+/* Dimensionamento => largura e altura */
+
+.secaoSobreMim {
+    width: 450px;
+    height: 200px;
+}
+
+/* Posicionamento */
+
+a {
+    background-color: red;
+    width: 100px;
+    height: 100px;
+    display: inline-block;
+}
+
+section {
+    display: inline-block;
+}
+
+/* Flexbox */
+.exemploFlexbox{
+    display: flex;
+    height: 400px;
+    background-color: silver;
+    justify-content: flex-end;
+    align-items: flex-end;
+}
+.exemploFlexbox div{
+    width: 200px;
+    height: 200px;
+}
+
+.exemplo1{
+    background-color: tomato;
+}
+.exemplo2{
+    background-color: salmon;
+}
+.exemplo3{
+    background-color: seagreen;
+}
