@@ -7,6 +7,12 @@ Projeto desenvolvido na parte 6 da maratona de programação da Kenzie Academy B
 1. [Instalação do VS Code no Windows](https://kenzie.com.br/blog/instalacao-vs-code-windows/)
 2. [Como utilizar o codepen e o VSCode](https://kenzie-academy-brasil.github.io/ferramentas/)
 
+## Checkpoints
+
+1. [Introdução ao HTML](https://kenzieacademybr.notion.site/Checkpoint-1d1cee5d6799463f83083d7fa3fbebee)
+2. [Introdução ao CSS](https://kenzieacademybr.notion.site/Checkpoint-6bae838a36e741e888fd814ebf303949)
+3. [Introdução ao Javascript](https://kenzieacademybr.notion.site/Checkpoint-0c0f3d7a07fb42679a3bee28291381fd)
+
 ## O Projeto
 
 ### Estrutura de arquivos 
