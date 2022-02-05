@@ -39,7 +39,7 @@ Projeto desenvolvido na parte 6 da maratona de programação da Kenzie Academy B
 
 ## Layout
 
-- [Twitter](./assets/img/layout.png)
+- [Layout](./assets/img/layout.png)
 
 ## Referências
 - [w3schools lista de tags](https://www.w3schools.com/tags/default.asp)
